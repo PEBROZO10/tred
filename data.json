@@ -1,0 +1,13 @@
+{
+    "campanhas": {
+        "Roubo em Eldoria": {
+            "senha": "1234",
+            "mestre": "Pebrozo",
+            "dia_da_semana": "N\u00e3o Definida",
+            "descricao": "Mais de 4/5 do dinheiro total da cidade foi roubado, descubram quem foi que roubou.",
+            "sistema": "B&B",
+            "participantes_maximos": 4,
+            "participantes": {}
+        }
+    }
+}
